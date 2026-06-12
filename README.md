@@ -34,7 +34,7 @@ All resources were configured with proper Identity and Access Management (IAM) r
    - ADF pulls data from GitHub using an HTTP connector and stores it in the bronze container in Azure Storage.
    - Parameters were added to the pipeline for adaptability to changes in the data source.
   
-
+![image](https://github.com/harshithap2000/Adventure-Works-End-to-End-Data-Engineering-Project/blob/main/Screenshots/Screen%20Shot%202026-06-13%20at%2012.16.26%20am.png?raw=true)
 
 
 The raw data is now securely stored and ready for transformation.
