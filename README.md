@@ -34,7 +34,7 @@ All resources were configured with proper Identity and Access Management (IAM) r
    - ADF pulls data from GitHub using an HTTP connector and stores it in the bronze container in Azure Storage.
    - Parameters were added to the pipeline for adaptability to changes in the data source.
   
-     ![image](https://github.com/user-attachments/assets/39e3d1b1-1275-4224-aaf4-c3753c50f564)
+
 
 
 The raw data is now securely stored and ready for transformation.
