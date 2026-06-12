@@ -39,7 +39,7 @@ All resources were configured with proper Identity and Access Management (IAM) r
 
 The raw data is now securely stored and ready for transformation.
 
-![image]((https://github.com/harshithap2000/Adventure-Works-End-to-End-Data-Engineering-Project/blob/main/Screenshots/Screen%20Shot%202026-06-13%20at%2012.23.27%20am.png?raw=true))
+![image](https://github.com/harshithap2000/Adventure-Works-End-to-End-Data-Engineering-Project/blob/main/Screenshots/Screen%20Shot%202026-06-13%20at%2012.23.27%20am.png?raw=true)
 
 
 ---
