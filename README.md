@@ -21,7 +21,7 @@ To start, the following Azure resources were provisioned:
 - **Azure Synapse Analytics:** Handles data warehousing for BI use.
 
 All resources were configured with proper Identity and Access Management (IAM) roles to ensure seamless integration and security.
-![image](https://github.com/user-attachments/assets/0905a006-6a76-43cb-b007-4c1fe05b6e5e)
+![image](https://github.com/harshithap2000/Adventure-Works-End-to-End-Data-Engineering-Project/blob/main/Screenshots/Screen%20Shot%202026-06-17%20at%208.05.03%20pm.png?raw=true)
 
 
 ---
