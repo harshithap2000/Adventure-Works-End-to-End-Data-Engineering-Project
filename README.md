@@ -60,7 +60,7 @@ Using Azure Databricks, the raw data from the bronze container was transformed i
 
   ![image](https://github.com/user-attachments/assets/03c972ff-6228-4880-9e17-bbbf14e19cb7)
 
-  ![image](https://github.com/user-attachments/assets/f1554d56-0276-4bcb-8a72-f8514051c835)
+  ![image](https://github.com/harshithap2000/Adventure-Works-End-to-End-Data-Engineering-Project/blob/main/Screenshots/Screen%20Shot%202026-06-17%20at%208.10.47%20pm.png?raw=true)
 
 
 
@@ -77,15 +77,16 @@ Azure Synapse Analytics structured the processed data for analysis and BI report
    - Created SQL databases and schemas to organize data.
    - Defined external tables and views for BI consumption.
   
-     ![image](https://github.com/user-attachments/assets/9d82f4ca-5d2b-42ae-9da2-bd64948f70b5)
+     ![image]<img width="940" height="398" alt="image" src="https://github.com/user-attachments/assets/12fd84d5-a192-4828-b167-c4a30066eeb4" />
 
-     ![image](https://github.com/user-attachments/assets/ce425f1d-dcd9-4b99-85d1-acbbc9e50d82)
+
+     ![image](https://github.com/harshithap2000/Adventure-Works-End-to-End-Data-Engineering-Project/blob/main/Screenshots/Screen%20Shot%202026-06-17%20at%208.11.09%20pm.png?raw=true)
 
 
 
 The cleaned, structured data was then moved to the gold container for reporting purposes.
 
-![image](https://github.com/user-attachments/assets/30a49adb-1e3b-4198-9f33-7d70e0a94d83)
+![image[](https://github.com/harshithap2000/Adventure-Works-End-to-End-Data-Engineering-Project/blob/main/Screenshots/Screen%20Shot%202026-06-17%20at%208.11.18%20pm.png?raw=true)
 
 
 ---
