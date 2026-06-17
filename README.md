@@ -52,9 +52,6 @@ Using Azure Databricks, the raw data from the bronze container was transformed i
 - **Cluster Setup:** A Databricks cluster was created to process the data efficiently.
 - **Data Lake Integration:** Databricks connected to Azure Storage to access the raw data.
 
-  ![image](https://github.com/user-attachments/assets/787233bd-acb1-47c8-84d6-308fe568eac2)
-
-
 #### Transformations:
 - Normalized date formats for consistency.
 - Cleaned and filtered invalid or incomplete records.
